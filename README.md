@@ -33,6 +33,7 @@ Currently working as a Senior Software Engineer at [#EMPGLABS](https://www.empgl
 [<img src='https://dytvr9ot2sszz.cloudfront.net/wp-content/uploads/2021/04/1200x628_OpenSearch-1-min-1-1-1024x535.jpg' alt='Open Search | Graph API' width="36" height="36" >](https://opensearch.org/)
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg' width="36" height="36" alt="JavaScript">](https://g.co/kgs/sse6jh)
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg' alt='Bootstrap' width="36" height="36" >](https://g.co/kgs/UGvQVv)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png' alt='Bootstrap' width="36" height="36" >](https://g.co/kgs/pmziqC)
 
 - 🔭 I’m currently working at Node JS
 - 🌱 I’m currently learning Architectural challenges and their solutions 
@@ -48,5 +49,7 @@ Currently working as a Senior Software Engineer at [#EMPGLABS](https://www.empgl
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haisum-Zameen&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Haisum-Zameen)  
 
 ![Profile views](https://gpvc.arturio.dev/Haisum-Zameen)  
