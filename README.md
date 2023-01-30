@@ -48,8 +48,6 @@ Currently working as a Senior Software Engineer at [#EMPGLABS](https://www.empgl
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Haisum-Zameen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/haisum-usman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Usman.Haisum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/haisumusman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Haisum92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4021959/haisum-usman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.empglabs.com/)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haisum-Zameen&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Haisum-Zameen)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haisum-Zameen&show_icons=true)   
 
 ![Profile views](https://gpvc.arturio.dev/Haisum-Zameen)  
