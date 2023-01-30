@@ -52,6 +52,4 @@ Currently working as a Senior Software Engineer at tech arm [#EMPGLABS](https://
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haisum-Zameen&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Haisum-Zameen)  
-
 ![Profile views](https://gpvc.arturio.dev/Haisum-Zameen)  
