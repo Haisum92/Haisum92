@@ -23,6 +23,7 @@ Currently working as a Senior Software Engineer at [#EMPGLABS](https://www.empgl
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg' alt='Express.js' width="36" height="36" >](https://g.co/kgs/8BYcfu)
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg' alt='Python' width="36" height="36" >](https://g.co/kgs/wZnEUx)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png' alt='Laravel' width="36" height="36" >](https://g.co/kgs/6rv3AZ)
+[<img src='https://cdn.freebiesupply.com/logos/thumbs/2x/lumen-1-logo.png' alt='Lumen' width="36" height="36" >](https://lumen.laravel.com/docs/9.x)
 [<img src='https://img.stackshare.io/service/6191/oDM0j5q0_400x400.png' alt='Objection Js' width="36" height="36">](https://vincit.github.io/objection.js/)
 [<img src='https://miro.medium.com/max/1035/1*k0QFBnA2btydUOh7Lwc4wQ.png' alt='Knex Js' width="36" height="36" >](https://knexjs.org/)
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg' alt='Mongo' width="36" height="36" >](https://g.co/kgs/BLwnnW)
